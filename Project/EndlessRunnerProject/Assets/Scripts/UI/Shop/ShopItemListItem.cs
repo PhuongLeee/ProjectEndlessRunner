@@ -14,5 +14,5 @@ public class ShopItemListItem : MonoBehaviour
 	public Sprite buyButtonSprite;
 	public Sprite disabledButtonSprite;
 
-    public ParticleSystem particleBuy;
+    public ParticleSystem buyParticle;
 }
