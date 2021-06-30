@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850006001411",
+    "firebase_url": "https://endlessrunnerproject-default-rtdb.firebaseio.com",
+    "project_id": "endlessrunnerproject",
+    "storage_bucket": "endlessrunnerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850006001411:android:7eeafa1c4ae2be2e4bcb36",
+        "android_client_info": {
+          "package_name": "com.unity.trashdash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850006001411-q375sam1gi18sjnosuabidoopf71d9am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT1Q8t2qBiSNQ837JQ2GViWG53w-tdRNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850006001411-q375sam1gi18sjnosuabidoopf71d9am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
